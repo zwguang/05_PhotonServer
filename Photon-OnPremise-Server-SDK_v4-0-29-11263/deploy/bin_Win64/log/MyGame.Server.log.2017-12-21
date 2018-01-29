@@ -1,0 +1,248 @@
+2017-12-21 17:48:57,548 [18] INFO  MyGameServer.MyGameServer - log init complate
+2017-12-21 17:48:57,558 [18] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame1; AppPath=D:\Unity3d\APlan_Siki\05_PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
+2017-12-21 20:21:45,427 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2017-12-21 20:21:45,431 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2017-12-21 20:22:10,899 [1] INFO  MyGameServer.MyGameServer - log init complate
+2017-12-21 20:22:10,910 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame1; AppPath=D:\Unity3d\APlan_Siki\05_PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
+2017-12-21 20:24:17,269 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2017-12-21 20:24:17,274 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2017-12-21 20:24:28,352 [1] INFO  MyGameServer.MyGameServer - log init complate
+2017-12-21 20:24:28,362 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame1; AppPath=D:\Unity3d\APlan_Siki\05_PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
+2017-12-21 20:24:37,400 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2017-12-21 20:24:37,404 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2017-12-21 20:25:38,144 [1] INFO  MyGameServer.MyGameServer - log init complate
+2017-12-21 20:25:38,155 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame1; AppPath=D:\Unity3d\APlan_Siki\05_PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
+2017-12-21 20:25:45,014 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2017-12-21 20:25:45,018 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2017-12-21 20:26:46,310 [1] INFO  MyGameServer.MyGameServer - log init complate
+2017-12-21 20:26:46,321 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame1; AppPath=D:\Unity3d\APlan_Siki\05_PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
+2017-12-21 20:27:00,064 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2017-12-21 20:27:00,069 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2017-12-21 20:31:09,705 [1] INFO  MyGameServer.MyGameServer - log init complate
+2017-12-21 20:31:09,715 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame1; AppPath=D:\Unity3d\APlan_Siki\05_PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
+2017-12-21 20:32:03,778 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2017-12-21 20:32:03,782 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2017-12-21 20:33:58,379 [1] INFO  MyGameServer.MyGameServer - log init complate
+2017-12-21 20:33:58,389 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame1; AppPath=D:\Unity3d\APlan_Siki\05_PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
+2017-12-21 20:34:05,649 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2017-12-21 20:34:05,654 [1] INFO  MyGameServer.MyGameServer - MyGame1应用关闭
+2017-12-21 20:34:05,655 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2017-12-21 20:37:47,189 [1] INFO  MyGameServer.MyGameServer - log init complate
+2017-12-21 20:37:47,199 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame1; AppPath=D:\Unity3d\APlan_Siki\05_PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
+2017-12-21 20:41:46,221 [12] INFO  MyGameServer.MyGameServer - 一个客户端请求连接
+2017-12-21 20:41:53,863 [13] INFO  MyGameServer.MyGameServer - 一个客户端请求连接
+2017-12-21 20:58:49,579 [10] INFO  MyGameServer.MyGameServer - 一个客户端请求连接
+2017-12-21 20:59:06,488 [17] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2017-12-21 20:59:06,489 [17] INFO  MyGameServer.MyGameServer - MyGame1应用关闭
+2017-12-21 20:59:06,489 [17] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2017-12-21 20:59:17,122 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2017-12-21 20:59:17,138 [1] INFO  MyGameServer.MyGameServer - MyGame1应用关闭
+2017-12-21 20:59:17,138 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2017-12-21 20:59:25,038 [1] INFO  MyGameServer.MyGameServer - log init complate
+2017-12-21 20:59:25,048 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame1; AppPath=D:\Unity3d\APlan_Siki\05_PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
+2017-12-21 20:59:29,164 [12] INFO  MyGameServer.MyGameServer - 一个客户端请求连接
+2017-12-21 21:00:03,381 [18] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2017-12-21 21:00:03,384 [16] INFO  MyGameServer.MyGameServer - MyGame1应用关闭
+2017-12-21 21:00:03,384 [16] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2017-12-21 21:00:47,423 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2017-12-21 21:00:47,441 [1] INFO  MyGameServer.MyGameServer - MyGame1应用关闭
+2017-12-21 21:00:47,442 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2017-12-21 21:01:11,682 [1] INFO  MyGameServer.MyGameServer - log init complate
+2017-12-21 21:01:11,693 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame1; AppPath=D:\Unity3d\APlan_Siki\05_PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
+2017-12-21 21:01:16,167 [10] INFO  MyGameServer.MyGameServer - 一个客户端请求连接
+2017-12-21 21:01:49,397 [11] INFO  MyGameServer.MyGameServer - 一个客户端请求连接
+2017-12-21 21:02:43,369 [10] INFO  MyGameServer.MyGameServer - 一个客户端请求连接
+2017-12-21 21:03:05,782 [13] INFO  MyGameServer.MyGameServer - 一个客户端请求连接
+2017-12-21 21:03:09,039 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:09,046 [10] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:09,062 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:09,079 [10] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:09,096 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:11,018 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:11,034 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:11,051 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:11,067 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:11,084 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:13,586 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:14,551 [10] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:14,568 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:14,584 [10] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:15,860 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:15,876 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:15,893 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:15,909 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:15,926 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:16,605 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:16,622 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:16,638 [10] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:16,655 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:16,672 [10] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:16,688 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:16,987 [10] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,004 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,020 [10] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,037 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,218 [10] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,235 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,252 [10] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,268 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,284 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,351 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,367 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,384 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,400 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,417 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,483 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,500 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,517 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,533 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,550 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,633 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,649 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,665 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,682 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,766 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,781 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,798 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,815 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,914 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,930 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,947 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:17,963 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:18,047 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:18,063 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:18,080 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:03:18,097 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:07:23,036 [13] INFO  MyGameServer.MyGameServer - 一个客户端请求连接
+2017-12-21 21:07:24,994 [10] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:07:25,008 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:07:25,025 [10] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:07:25,042 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:07:25,058 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:07:33,507 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:07:33,524 [10] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:07:33,540 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:07:33,557 [10] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:07:33,573 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:07:33,590 [10] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:08:01,027 [15] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2017-12-21 21:08:01,029 [15] INFO  MyGameServer.MyGameServer - MyGame1应用关闭
+2017-12-21 21:08:01,029 [15] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2017-12-21 21:08:04,607 [10] INFO  MyGameServer.MyGameServer - 一个客户端请求连接
+2017-12-21 21:08:06,127 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:08:06,131 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:08:06,151 [10] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:08:06,164 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:08:06,184 [10] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:11:43,888 [15] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2017-12-21 21:11:43,893 [15] INFO  MyGameServer.MyGameServer - MyGame1应用关闭
+2017-12-21 21:11:43,893 [15] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2017-12-21 21:11:50,039 [11] INFO  MyGameServer.MyGameServer - 一个客户端请求连接
+2017-12-21 21:11:51,963 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:11:51,964 [13] INFO  MyGameServer.MyGameServer - 100
+2017-12-21 21:11:51,967 [13] INFO  MyGameServer.MyGameServer - shuliang
+2017-12-21 21:11:51,971 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:11:51,971 [13] INFO  MyGameServer.MyGameServer - 100
+2017-12-21 21:11:51,971 [13] INFO  MyGameServer.MyGameServer - shuliang
+2017-12-21 21:11:51,971 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:11:51,971 [13] INFO  MyGameServer.MyGameServer - 100
+2017-12-21 21:11:51,971 [13] INFO  MyGameServer.MyGameServer - shuliang
+2017-12-21 21:11:51,982 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:11:51,982 [11] INFO  MyGameServer.MyGameServer - 100
+2017-12-21 21:11:51,982 [11] INFO  MyGameServer.MyGameServer - shuliang
+2017-12-21 21:14:46,449 [10] INFO  MyGameServer.MyGameServer - 一个客户端请求连接
+2017-12-21 21:14:48,460 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:14:48,460 [11] INFO  MyGameServer.MyGameServer - 100
+2017-12-21 21:14:48,460 [11] INFO  MyGameServer.MyGameServer - shuliang
+2017-12-21 21:14:48,471 [10] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:14:48,471 [10] INFO  MyGameServer.MyGameServer - 100
+2017-12-21 21:14:48,471 [10] INFO  MyGameServer.MyGameServer - shuliang
+2017-12-21 21:14:48,495 [13] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:14:48,495 [13] INFO  MyGameServer.MyGameServer - 100
+2017-12-21 21:14:48,495 [13] INFO  MyGameServer.MyGameServer - shuliang
+2017-12-21 21:14:48,504 [6] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:14:48,504 [6] INFO  MyGameServer.MyGameServer - 100
+2017-12-21 21:14:48,504 [6] INFO  MyGameServer.MyGameServer - shuliang
+2017-12-21 21:14:48,525 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:14:48,525 [11] INFO  MyGameServer.MyGameServer - 100
+2017-12-21 21:14:48,525 [11] INFO  MyGameServer.MyGameServer - shuliang
+2017-12-21 21:14:59,702 [15] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2017-12-21 21:14:59,704 [15] INFO  MyGameServer.MyGameServer - MyGame1应用关闭
+2017-12-21 21:14:59,704 [15] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2017-12-21 21:15:02,524 [13] INFO  MyGameServer.MyGameServer - 一个客户端请求连接
+2017-12-21 21:15:03,255 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:15:03,255 [11] INFO  MyGameServer.MyGameServer - 100
+2017-12-21 21:15:03,257 [11] INFO  MyGameServer.MyGameServer - shuliang
+2017-12-21 21:15:03,266 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:15:03,266 [11] INFO  MyGameServer.MyGameServer - 100
+2017-12-21 21:15:03,266 [11] INFO  MyGameServer.MyGameServer - shuliang
+2017-12-21 21:15:03,277 [10] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:15:03,277 [10] INFO  MyGameServer.MyGameServer - 100
+2017-12-21 21:15:03,277 [10] INFO  MyGameServer.MyGameServer - shuliang
+2017-12-21 21:19:38,495 [15] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2017-12-21 21:19:38,499 [15] INFO  MyGameServer.MyGameServer - MyGame1应用关闭
+2017-12-21 21:19:38,499 [15] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2017-12-21 21:19:42,206 [11] INFO  MyGameServer.MyGameServer - 一个客户端请求连接
+2017-12-21 21:19:43,073 [10] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:19:43,073 [10] INFO  MyGameServer.MyGameServer - 100
+2017-12-21 21:19:43,075 [10] INFO  MyGameServer.MyGameServer - shuliang
+2017-12-21 21:19:43,084 [10] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:19:43,084 [10] INFO  MyGameServer.MyGameServer - 100
+2017-12-21 21:19:43,084 [10] INFO  MyGameServer.MyGameServer - shuliang
+2017-12-21 21:19:43,094 [11] INFO  MyGameServer.MyGameServer - 收到客户端一个请求
+2017-12-21 21:19:43,094 [11] INFO  MyGameServer.MyGameServer - 100
+2017-12-21 21:19:43,094 [11] INFO  MyGameServer.MyGameServer - shuliang
+2017-12-21 22:00:20,793 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2017-12-21 22:00:20,798 [1] INFO  MyGameServer.MyGameServer - MyGame1应用关闭
+2017-12-21 22:00:20,798 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2017-12-21 22:00:33,061 [1] INFO  MyGameServer.MyGameServer - log init complate
+2017-12-21 22:00:33,115 [1] INFO  NHibernate.Cfg.Environment - NHibernate 5.0.3 (assembly 5.0.0.0)
+2017-12-21 22:00:33,117 [1] INFO  NHibernate.Cfg.Environment - hibernate-configuration section not found in application configuration file
+2017-12-21 22:00:33,117 [1] INFO  NHibernate.Cfg.Environment - Bytecode provider name : lcg
+2017-12-21 22:00:33,118 [1] INFO  NHibernate.Cfg.Environment - Using reflection optimizer
+2017-12-21 22:00:33,135 [1] ERROR NHibernate.Cfg.Configuration - Problem parsing configuration
+NHibernate.Cfg.HibernateConfigException: An exception occurred during configuration of persistence layer. ---> System.IO.FileNotFoundException: 未能找到文件“D:\Unity3d\APlan_Siki\05_PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\nhibernate.cfg.xml”。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   在 System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   在 System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   在 System.Xml.XmlTextReaderImpl.OpenUrlDelegate(Object xmlResolver)
+   在 System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   在 System.Threading.CompressedStack.Run(CompressedStack compressedStack, ContextCallback callback, Object state)
+   在 System.Xml.XmlTextReaderImpl.OpenUrl()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlCharCheckingReader.Read()
+   在 System.Xml.XsdValidatingReader.Read()
+   在 System.Xml.XPath.XPathDocument.LoadFromReader(XmlReader reader, XmlSpace space)
+   在 NHibernate.Cfg.ConfigurationSchema.HibernateConfiguration..ctor(XmlReader hbConfigurationReader, Boolean fromAppSetting)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 NHibernate.Cfg.ConfigurationSchema.HibernateConfiguration..ctor(XmlReader hbConfigurationReader, Boolean fromAppSetting)
+   在 NHibernate.Cfg.Configuration.Configure(XmlReader textReader)
+2017-12-21 22:00:33,140 [1] ERROR Photon.SocketServer.ApplicationBase - NHibernate.Cfg.HibernateConfigException: An exception occurred during configuration of persistence layer. ---> System.IO.FileNotFoundException: 未能找到文件“D:\Unity3d\APlan_Siki\05_PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\nhibernate.cfg.xml”。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   在 System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   在 System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   在 System.Xml.XmlTextReaderImpl.OpenUrlDelegate(Object xmlResolver)
+   在 System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   在 System.Threading.CompressedStack.Run(CompressedStack compressedStack, ContextCallback callback, Object state)
+   在 System.Xml.XmlTextReaderImpl.OpenUrl()
+   在 System.Xml.XmlTextReaderImpl.Read()
+   在 System.Xml.XmlCharCheckingReader.Read()
+   在 System.Xml.XsdValidatingReader.Read()
+   在 System.Xml.XPath.XPathDocument.LoadFromReader(XmlReader reader, XmlSpace space)
+   在 NHibernate.Cfg.ConfigurationSchema.HibernateConfiguration..ctor(XmlReader hbConfigurationReader, Boolean fromAppSetting)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 NHibernate.Cfg.ConfigurationSchema.HibernateConfiguration..ctor(XmlReader hbConfigurationReader, Boolean fromAppSetting)
+   在 NHibernate.Cfg.Configuration.Configure(XmlReader textReader)
+   在 NHibernate.Cfg.Configuration.Configure(String fileName, Boolean ignoreSessionFactoryConfig)
+   在 NHibernateMySQL.NHibernateHelper.get_SessionFactory() 位置 D:\Unity3d\APlan_Siki\05_PhotonServer\PhotonServer\MyGameServer\NHibernateHelper.cs:行号 23
+   在 NHibernateMySQL.NHibernateHelper.OpenSession() 位置 D:\Unity3d\APlan_Siki\05_PhotonServer\PhotonServer\MyGameServer\NHibernateHelper.cs:行号 34
+   在 MyGameServer.Manager.UserManager.VerifyUser(String name, String password) 位置 D:\Unity3d\APlan_Siki\05_PhotonServer\PhotonServer\MyGameServer\Manager\UserManager.cs:行号 89
+   在 MyGameServer.MyGameServer.Setup() 位置 D:\Unity3d\APlan_Siki\05_PhotonServer\PhotonServer\MyGameServer\MyGameServer.cs:行号 38
+   在 Photon.SocketServer.ApplicationBase.PhotonHostRuntimeInterfaces.IPhotonControl.OnPhotonRunning() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\ApplicationBase.cs:行号 1171
+2017-12-21 22:00:33,147 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2017-12-21 22:00:33,153 [1] INFO  MyGameServer.MyGameServer - MyGame1应用关闭
+2017-12-21 22:00:33,153 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1

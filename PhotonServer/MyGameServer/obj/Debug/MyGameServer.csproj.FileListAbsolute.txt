@@ -1,0 +1,11 @@
+D:\Unity3d\APlan_Siki\05_PhotonServer\PhotonServer\MyGameServer\bin\Debug\MyGameServer.dll
+D:\Unity3d\APlan_Siki\05_PhotonServer\PhotonServer\MyGameServer\bin\Debug\MyGameServer.pdb
+D:\Unity3d\APlan_Siki\05_PhotonServer\PhotonServer\MyGameServer\obj\Debug\MyGameServer.csproj.CoreCompileInputs.cache
+D:\Unity3d\APlan_Siki\05_PhotonServer\PhotonServer\MyGameServer\obj\Debug\MyGameServer.dll
+D:\Unity3d\APlan_Siki\05_PhotonServer\PhotonServer\MyGameServer\obj\Debug\MyGameServer.pdb
+D:\Unity3d\APlan_Siki\05_PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\MyGameServer.dll
+D:\Unity3d\APlan_Siki\05_PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\MyGameServer.pdb
+D:\Unity3d\APlan_Siki\05_PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\log4net.config
+D:\Unity3d\APlan_Siki\05_PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\MyGameServer.dll.config
+D:\Unity3d\APlan_Siki\05_PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\hibernate.cfg.xml
+D:\Unity3d\APlan_Siki\05_PhotonServer\PhotonServer\MyGameServer\obj\Debug\MyGameServer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+2017-12-21 17:46:00,101 [18] INFO  MyGameServer.MyGameServer - log init complate
+2017-12-21 17:46:00,111 [18] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame1; AppPath=D:\Unity3d\APlan_Siki\05_PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
+2017-12-21 17:48:57,566 [18] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2017-12-21 17:48:57,568 [18] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1

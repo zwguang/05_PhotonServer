@@ -1,0 +1,9 @@
+D:\Unity3d\APlan_Siki\05_PhotonServer\PhotonServer\CSharp直接连接MySQL\bin\Debug\CSharp直接连接MySQL.exe.config
+D:\Unity3d\APlan_Siki\05_PhotonServer\PhotonServer\CSharp直接连接MySQL\bin\Debug\CSharp直接连接MySQL.exe
+D:\Unity3d\APlan_Siki\05_PhotonServer\PhotonServer\CSharp直接连接MySQL\bin\Debug\CSharp直接连接MySQL.pdb
+D:\Unity3d\APlan_Siki\05_PhotonServer\PhotonServer\CSharp直接连接MySQL\bin\Debug\MySql.Data.dll
+D:\Unity3d\APlan_Siki\05_PhotonServer\PhotonServer\CSharp直接连接MySQL\bin\Debug\MySql.Data.xml
+D:\Unity3d\APlan_Siki\05_PhotonServer\PhotonServer\CSharp直接连接MySQL\obj\Debug\CSharp直接连接MySQL.csprojResolveAssemblyReference.cache
+D:\Unity3d\APlan_Siki\05_PhotonServer\PhotonServer\CSharp直接连接MySQL\obj\Debug\CSharp直接连接MySQL.csproj.CoreCompileInputs.cache
+D:\Unity3d\APlan_Siki\05_PhotonServer\PhotonServer\CSharp直接连接MySQL\obj\Debug\CSharp直接连接MySQL.exe
+D:\Unity3d\APlan_Siki\05_PhotonServer\PhotonServer\CSharp直接连接MySQL\obj\Debug\CSharp直接连接MySQL.pdb

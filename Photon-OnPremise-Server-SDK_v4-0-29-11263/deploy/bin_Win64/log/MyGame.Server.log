@@ -1,0 +1,15 @@
+2018-01-05 09:44:04,769 [1] INFO  MyGameServer.MyGameServer - log init complate
+2018-01-05 09:44:04,779 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame1; AppPath=D:\Unity3d\APlan_Siki\05_PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
+2018-01-05 09:47:39,629 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MyGame1
+2018-01-05 09:47:39,685 [12] ERROR Photon.SocketServer.ApplicationBase - System.Threading.ThreadAbortException: 正在中止线程。
+   在 System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   在 System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   在 MyGameServer.Threads.SyncPositionThread.UpdatePosition() 位置 D:\Unity3d\APlan_Siki\05_PhotonServer\PhotonServer\MyGameServer\Threads\SyncPositionThread.cs:行号 39
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+2018-01-05 09:47:39,857 [1] INFO  MyGameServer.MyGameServer - MyGame1应用关闭
+2018-01-05 09:47:39,857 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MyGame1
+2018-01-05 09:47:47,237 [1] INFO  MyGameServer.MyGameServer - log init complate
+2018-01-05 09:47:47,247 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MyGame1; AppPath=D:\Unity3d\APlan_Siki\05_PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer, Type=MyGameServer.MyGameServer 
